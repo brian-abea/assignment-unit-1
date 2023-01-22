@@ -1,6 +1,11 @@
 /* Give your page a fun background color */
 
 /* Make the header and footer a different color from the background */
+h1{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
 
 /* Align the h1 containing your name in the center of the header*/
 
